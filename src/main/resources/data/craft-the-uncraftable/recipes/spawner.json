@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "#O#",
+    "OXO",
+    "#O#"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:nether_star"
+    },
+    "#": {
+      "item": "minecraft:chain"
+    },
+    "O": {
+      "item": "minecraft:end_crystal"
+    }
+  },
+  "result": {
+    "item": "minecraft:spawner",
+    "count": 1
+  }
+}
