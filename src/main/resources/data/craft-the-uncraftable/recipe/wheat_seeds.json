@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:short_grass"
+      },
+      {
+        "item": "minecraft:tall_grass"
+      },
+      {
+        "item": "minecraft:fern"
+      },
+      {
+        "item": "minecraft:wheat"
+      }
+    ]
+  ],
+  "result": {
+    "id": "minecraft:wheat_seeds",
+    "count": 2
+  }
+}

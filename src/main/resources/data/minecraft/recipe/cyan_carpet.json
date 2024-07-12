@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "carpet",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cyan_wool"
+    }
+  },
+  "result": {
+    "id": "minecraft:cyan_carpet",
+    "count": 3
+  }
+}

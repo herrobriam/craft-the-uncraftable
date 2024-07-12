@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "carpet",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:moss_block"
+    }
+  },
+  "result": {
+    "id": "minecraft:moss_carpet",
+    "count": 8
+  }
+}
